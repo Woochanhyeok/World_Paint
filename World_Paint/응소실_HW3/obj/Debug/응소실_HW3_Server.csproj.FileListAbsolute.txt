@@ -1,0 +1,14 @@
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\bin\Debug\응소실_HW3.exe.config
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\bin\Debug\응소실_HW3.exe
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\bin\Debug\응소실_HW3.pdb
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3_Server.csprojAssemblyReference.cache
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3.Properties.Resources.resources
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3.ServerForm1.resources
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3.ServerForm2.resources
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3_Server.csproj.GenerateResource.cache
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3_Server.csproj.CoreCompileInputs.cache
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3.exe
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3.pdb
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\bin\Debug\ClassLibrary1.dll
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\bin\Debug\ClassLibrary1.pdb
+C:\Users\dncks\source\repos\응소실_HW3\응소실_HW3\obj\Debug\응소실_HW3_Server.csproj.CopyComplete
